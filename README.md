@@ -11,4 +11,7 @@ Repository for IIT Madras' Shaastra 2022 event Reverse Coding
 
     1. Open the executable and once it shows the error, click OK.
     1. Then click System Preferences -> Security and Privacy -> General tab -> Open Anyways.
-* For Linux users, open the terminal and go the directory same as that of the executable and run it as `./Finals_Linux`.
+* For Linux users, open the terminal and go the directory same as that of the executable.
+
+    1. Run the executable as `./Finals_Linux`.
+    1. If it throws an error, give it executable rights using `sudo chmod 700 Finals_Linux`. Give your username and password as required. Now run it again.
